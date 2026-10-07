@@ -46,6 +46,6 @@ Security isn't a final checkbox. It has its own phase, and it shows up in every 
 Got a system that's slow, expensive, fragile, or all three?
 That's our favourite kind of conversation.
 
-🌐 [calicata.dev](https://calicata.dev) · ✉️ [EMAIL]
+🌐 Calicata (https://calicata.dev) · ✉️ contacto@calicata.dev
 
 <sub>No servers were harmed in the making of this README. A few were mildly stress-tested.</sub>
